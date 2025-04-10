@@ -3,7 +3,7 @@ const botaoNao = document.getElementById("nao");
 const resposta = document.getElementById("resposta");
 
 botaoSim.addEventListener("click", () => {
-  resposta.innerText = "AAAA 💖 Eu sabia!!! Te amo!! 💍";
+  resposta.innerText = "AAAA 💖 Eu sabia!!! Te amo JOSY!! 💍";
 });
 
 botaoNao.addEventListener("mouseover", () => {
